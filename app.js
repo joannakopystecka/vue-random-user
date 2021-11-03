@@ -1,11 +1,11 @@
 const app = Vue.createApp({
   data() {
     return {
-      firstName: "Joanna",
-      lastName: "Kopystecka",
-      email: "asia@oo.pl",
+      firstName: "Sam",
+      lastName: "Doe",
+      email: "samdoe@example.com",
       gender: "male",
-      picture: "https://randomuser.me/api/portraits/men/75.jpg",
+      picture: "https://randomuser.me/api/portraits/women/75.jpg",
     };
   },
 
